@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashnmodi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ElasticSearch, Redis
+- 🌱 I’m currently learning Kubernets, GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 yashnmodi.blogspot.com
 
