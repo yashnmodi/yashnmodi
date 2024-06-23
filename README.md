@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @yashnmodi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Kubernets, GCP
+- 👋 Hi, I’m Yash Modi.
+- 📄 Checkout my CV at https://yashnmodi.github.io/cv
+- 🌱 I’m currently learning Apache Kafka, Docker and Kubernets.
 - 💞️ I’m looking to collaborate on ...
-- 📫 yashnmodi.blogspot.com
 
 <!---
 yashnmodi/yashnmodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
